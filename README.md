@@ -36,7 +36,7 @@ The dataset can be found and download at Kaggle via a topic called Solar Power G
 
 ## Process
 The process consists of 3 steps.
-1. Initialize Database [link](./01_InitializeData.ipynb):
+1. Initialize Database ([link](./01_InitializeData.ipynb)):
 - Create table
 - Import Data
 2. Data Cleaning ([link](./02_CleaningData.ipynb)):
