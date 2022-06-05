@@ -13,6 +13,6 @@ The dataset can be found and download at Kaggle via a topic called Solar Power G
 
 1. Power generation dataset contains seven columns.
 
-| Columns | DATE_TIME | PLANT_ID | DC_POWER | AC_POWER | DAILY_YIELD | TOTAL_YIELD |
-| ------- | --------- | -------- | -------- | -------- | ----------- | ----------- |
+| Columns   | DATE_TIME | PLANT_ID | DC_POWER | AC_POWER | DAILY_YIELD | TOTAL_YIELD |
+| -------   | --------- | -------- | -------- | -------- | ----------- | ----------- |
 | Data Type | String | String | Float | Float | Float | Float |
