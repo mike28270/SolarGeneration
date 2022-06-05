@@ -34,4 +34,17 @@ The dataset can be found and download at Kaggle via a topic called Solar Power G
 | MODULE_TEMPERATURE  | Float     | Solar panels temperature                              |
 | IRRADIATION         | Float     | Amount of radiation which solar panels was exposed to |
 
-
+## Steps
+The process consists of 3 steps.
+1. Initialize Database: [link](./01_InitializeData.ipynb)
+- Create table
+- Import Data
+2. Data Cleaning[link](./02_CleaningData.ipynb)
+- Dealing with Null
+- Merge tables
+- Dealing with Data type
+3. Data analyzation[link](./03_Analyse_202112062348.ipynb)
+- Inverter optimization
+  - Find efficiencies of the inverters
+  - Find the faulty inverter
+- Prediction of AC_POWER
